@@ -1,2 +1,2 @@
 ## LINK DEMOSTRACION - HTML
-# [joelXVS.github.io/PROGRAMACION-ORIENTADA-A-OBJETOS](https://joelxvs.github.io/PROGRAMACION-ORIENTADA-A-OBJETOS/E-VALUA_JAVA/index.html)
+# [joelXVS.github.io/DISEÑO-PAGINA](https://joelxvs.github.io/E-VALUA--POO-PROYECTO-2CORTE/)
