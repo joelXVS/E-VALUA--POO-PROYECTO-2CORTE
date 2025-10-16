@@ -1,2 +1,2 @@
-# E-VALUA--POO-PROYECTO-2CORTE
-Proyecto de segundo corte de POO, Unipacifico con Wilman Quiñonez Valencia
+## LINK DEMOSTRACION - HTML
+# [joelXVS.github.io/PROGRAMACION-ORIENTADA-A-OBJETOS](https://joelxvs.github.io/PROGRAMACION-ORIENTADA-A-OBJETOS/E-VALUA_JAVA/index.html)
